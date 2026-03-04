@@ -39,3 +39,19 @@ a{
     background-color: hsl(240, 100%, 50%, 50%);
     width: 20%;
 }
+
+.bloqueado{
+    background-color: hsla(240, 42%, 18%, 0.5);
+    color: rgb(113, 112, 112);
+}
+
+.completo{
+    background-color: hsla(240, 78%, 72%, 0.5);
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
